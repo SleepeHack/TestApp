@@ -1,0 +1,10 @@
+D:\ИС-23\Родин Никита\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\ИС-23\Родин Никита\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\ИС-23\Родин Никита\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\ИС-23\Родин Никита\TestApp\TestApp\obj\Debug\TestApp.pdb
